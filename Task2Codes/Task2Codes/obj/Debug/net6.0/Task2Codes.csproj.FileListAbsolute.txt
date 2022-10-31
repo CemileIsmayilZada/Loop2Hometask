@@ -1,0 +1,15 @@
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\obj\Debug\net6.0\Task2Codes.csproj.AssemblyReference.cache
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\obj\Debug\net6.0\Task2Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\obj\Debug\net6.0\Task2Codes.AssemblyInfoInputs.cache
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\obj\Debug\net6.0\Task2Codes.AssemblyInfo.cs
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\obj\Debug\net6.0\Task2Codes.csproj.CoreCompileInputs.cache
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\obj\Debug\net6.0\Task2Codes.dll
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\obj\Debug\net6.0\Task2Codes.pdb
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\bin\Debug\net6.0\Task2Codes.exe
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\bin\Debug\net6.0\Task2Codes.deps.json
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\bin\Debug\net6.0\Task2Codes.runtimeconfig.json
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\bin\Debug\net6.0\Task2Codes.dll
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\bin\Debug\net6.0\Task2Codes.pdb
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\obj\Debug\net6.0\refint\Task2Codes.dll
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\obj\Debug\net6.0\Task2Codes.genruntimeconfig.cache
+C:\WorkVs2022\Task2Loop\Task2Codes\Task2Codes\obj\Debug\net6.0\ref\Task2Codes.dll
